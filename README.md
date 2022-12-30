@@ -1,4 +1,4 @@
-# Pokemon Price Scraper
+<h1 align='center'>Pokemon Price Scraper</h1>
 
 <div align='center'>
     <img src="https://raw.githubusercontent.com/fishsticksnom/pokemon-price-scraper/main/assets/scraper.png" alt="scraper-icon" width="100"/>
