@@ -1,7 +1,7 @@
 # Pokemon Price Scraper
 
 <div align='center'>
-    <img src="" alt="scraper-icon" width="200"/>
+    <img src="https://raw.githubusercontent.com/fishsticksnom/pokemon-price-scraper/main/assets/scraper.png" alt="scraper-icon" width="100"/>
 </div>
 
 ## About
@@ -37,8 +37,8 @@ pokemon_card = {
 ```
 
 ## Notes
-**The table is drop every time the script is run.**
-**For getting more sets,the file url can be modify.**
-**To make use of this script Firefox geckodriver is need it.**
+**The table is drop every time the script is run.**  
+**For getting more sets,the file url can be modify.**  
+**To make use of this script Firefox geckodriver is need it.**  
 
 
